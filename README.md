@@ -1,49 +1,55 @@
 # ZAPA-Framework
 ZAPA™ (Zero to One AI Product Assessment) is a structured 6-dimension scoring system for rapid AI product discovery to de-risk 0-to-1 opportunities by validating viability, technical feasibility, and business impact.
-# ZAPA™: Zero to One AI Product Assessment
+# ZAPA™: Zero to One AI Product Assessment (v2.0)
 
-![ZAPA Logo](https://your-link-here.com/zapa-bolt-logo.png) **ZAPA™** is a proprietary discovery framework purpose-built for the AI-first innovation landscape. Unlike traditional product assessment models, ZAPA™ is singularly designed to address the unique complexities of AI development—data dependencies, technical feasibility, and rapid business impact.
-
-## 🏛️ The Framework
-ZAPA™ provides a structured, 6-dimension scoring system to help product leaders, founders, and cross-functional teams rapidly validate 0-to-1 AI opportunities before investing in development.
-
-### The Six Dimensions of Discovery
-1.  **Problem Clarity** – Is the problem well-defined, significant, and high-value?
-2.  **AI Fit & Necessity** – Is AI essential for solving this, or would a simpler solution suffice?
-3.  **Data Availability & Quality** – Do we have access to high-quality, scalable, and compliant data?
-4.  **Technical Feasibility** – Is the solution achievable within the current or near-term stack?
-5.  **Business Impact Potential** – Will this drive measurable ROI (revenue, retention, or efficiency)?
-6.  **Ethical & Regulatory Considerations** – Are privacy, bias, and compliance risks managed?
+**The AI Product Leader’s 0-to-1 framework. A structured 6-dimension scoring system to validate viability, de-risk technical resilience, and ensure economic margin in the agentic economy.**
 
 ---
 
-## 🔢 How It Works (The Scoring System)
-Evaluate your AI product concept across each dimension using a 1–3 scale:
+## 🛠 Why ZAPA?
+In 2026, simply "using AI" is no longer a moat. AI product discovery now requires a move away from "experimental demos" toward **Resilient Infrastructure**. ZAPA™ addresses the unique complexities of agentic development—model agnosticism, token economics, and autonomous governance. It is designed to identify "Fragile" concepts before they consume engineering capital.
 
-* **1** = Low / High Risk
-* **2** = Medium / Manageable
-* **3** = High / Strong Fit
+## 🔢 The Six Dimensions of 2026 Discovery
 
-### Outcome Guidance
-| Total Score | Recommendation |
-| :--- | :--- |
-| **15–18** | **Strong Candidate:** High-potential for AI-first development. |
-| **10–14** | **Proceed with Caution:** Address gaps in specific low-score dimensions. |
-| **< 10** | **Reconsider:** AI may not be the right fit or the risks outweigh the value. |
+1.  **Outcome Velocity** – Does AI solve the problem 10x faster or better than non-AI alternatives?
+2.  **AI-Native Necessity (MVI)** – Is the value proposition built on **Minimum Viable Intelligence**, or is it a vulnerable wrapper?
+3.  **Semantic Readiness** – Is the data proprietary, semantically indexed, and ready for agentic "memory" (RAG)?
+4.  **Technical Resilience** – Is the architecture **Model-Agnostic**? Can the product survive a foundational model migration?
+5.  **Token Economics** – Are margins protected against the **"Re-read Tax"** and high-volume inference costs?
+6.  **Governance & Trust** – Are agentic actions auditable, with deterministic fail-safes for autonomous decisions?
 
 ---
 
-## 🛠 Why Use ZAPA™?
-* **De-Risk Discovery:** Identify "hidden" AI risks (like data gaps or ethical red flags) early.
-* **Align Teams:** Create immediate cross-functional consensus between Engineering, Product, and Business.
-* **Rapid Validation:** Move from "Idea" to "Go/No-Go" in minutes, not weeks.
-* **Defensible Roadmaps:** Build your roadmap based on objective data and rigorous assessment.
+## 📊 Score Sheet & Decision Key
 
-## 📖 Using ZAPA™ Professionally
-ZAPA™ is ideal for:
-* **Product Leaders:** Auditing a portfolio of AI initiatives.
-* **Fractional PMs:** Providing immediate strategic value during discovery sprints.
-* **Startup Founders:** Validating an MVP concept for investors.
+| Assessment Dimension | Description | Score (1-3) |
+| :--- | :--- | :---: |
+| **Outcome Velocity** | Speed/scale of resolution vs. human effort. | |
+| **AI-Native (MVI)** | Core requirement for reasoning models. | |
+| **Semantic Readiness** | Proprietary data readiness for agentic pipelines. | |
+| **Tech Resilience** | Model agnosticism and migration readiness. | |
+| **Token Economics** | Margin integrity vs. inference costs. | |
+| **Governance & Trust** | Auditability and safety of autonomous actions. | |
+
+### 🔢 Scoring Legend
+* **1 (Low):** **Fragile.** High model dependency or negative unit economics.
+* **2 (Med):** **Viable.** Strong potential; requires refinement in governance or cost-optimization.
+* **3 (High):** **Resilient.** AI-native, cost-optimized, and governance-ready.
+
+### 🚦 Outcome Guidance
+| Total Score | Classification | Strategic Action |
+| :--- | :--- | :--- |
+| **15–18** | **Resilient Lead** | **Advance:** High priority for 0-to-1 development. |
+| **10–14** | **Conditional Pivot** | **Refine:** Address specific "1" or "2" scores (Economics/Trust). |
+| **< 10** | **Fragile Concept** | **Discard:** Risks outweigh the AI necessity. |
+
+---
+
+## 📖 Professional Application
+ZAPA™ is built for the modern AI leadership stack:
+* **Fractional & FT Product Leaders:** To audit and de-risk AI roadmaps in the first 48 hours.
+* **Innovation Teams:** To create cross-functional consensus on high-stakes AI investments.
+* **Founders:** To validate MVI and unit economics for investors.
 
 ---
 
