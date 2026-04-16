@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="logo.png" alt="ZAPA Logo" width="120">
-</p>
-
 # ZAPA™: Zero to One AI Product Assessment (v2.0)
 
 **The AI Product Leader’s 0-to-1 framework. A structured 6-dimension scoring system to validate viability, de-risk technical resilience, and ensure economic margin in the agentic economy.**
