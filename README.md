@@ -48,7 +48,7 @@ ZAPA™ is ideal for:
 ---
 
 ## ⚖️ License & Attribution
-ZAPA™ is a proprietary framework created by **[Your Name/Company]**. 
+ZAPA™ is a proprietary framework created by **Dena Lawless, Zhooshh Venture Studio**. 
 
 This project is licensed under the **MIT License**. You are free to use, copy, and modify the framework for personal or commercial use, provided that the original copyright and trademark notice (ZAPA™) are retained.
 
