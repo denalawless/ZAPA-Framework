@@ -1,5 +1,7 @@
-# ZAPA-Framework
-ZAPA™ (Zero to One AI Product Assessment) is a structured 6-dimension scoring system for rapid AI product discovery to de-risk 0-to-1 opportunities by validating viability, technical feasibility, and business impact.
+<p align="center">
+  <img src="logo.png" alt="ZAPA Logo" width="120">
+</p>
+
 # ZAPA™: Zero to One AI Product Assessment (v2.0)
 
 **The AI Product Leader’s 0-to-1 framework. A structured 6-dimension scoring system to validate viability, de-risk technical resilience, and ensure economic margin in the agentic economy.**
@@ -52,6 +54,7 @@ ZAPA™ is built for the modern AI leadership stack:
 * **Founders:** To validate MVI and unit economics for investors.
 
 ---
+
 
 ## ⚖️ License & Attribution
 ZAPA™ is a proprietary framework created by **Dena Lawless, Zhooshh Venture Studio**. 
