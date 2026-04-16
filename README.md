@@ -53,4 +53,4 @@ ZAPA™ is a proprietary framework created by **Dena Lawless, Zhooshh Venture St
 This project is licensed under the **MIT License**. You are free to use, copy, and modify the framework for personal or commercial use, provided that the original copyright and trademark notice (ZAPA™) are retained.
 
 ---
-*Looking for help implementing ZAPA™ in your organization? [Contact me/Link to Portfolio]*
+*Looking for help implementing ZAPA™ in your organization? [Contact me https://cv-dena-lawless.lovable.app/*
